@@ -1,0 +1,14 @@
+# Archivos del entorno virtual local
+my_env/
+
+# Archivos de Jupyter Notebook y temporales
+*.ipynb
+
+# Archivos ocultos y logs
+.git/
+.gitignore
+*.log
+*.csv
+*.xlsx
+*.parquet
+

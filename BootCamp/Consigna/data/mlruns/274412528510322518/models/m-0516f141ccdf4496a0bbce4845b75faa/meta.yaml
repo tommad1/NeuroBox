@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/tomasito/practica%20phyton/BootCamp/Consigna/data/mlruns/274412528510322518/models/m-0516f141ccdf4496a0bbce4845b75faa/artifacts
+creation_timestamp: 1751079010431
+experiment_id: '274412528510322518'
+last_updated_timestamp: 1751079012888
+model_id: m-0516f141ccdf4496a0bbce4845b75faa
+model_type: null
+name: best_model
+source_run_id: 3eb845893970480fa74177eac29f32ad
+status: 2
+status_message: null

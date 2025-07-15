@@ -1,0 +1,2 @@
+Order amount,Order state,Payment Method Registration Failure,Payment Method Type,Payment Method Provider,Payment Method Issuer,Transaction amount,Transaction Failed,Email Domain,Email Provider,Customer IP Address,Same city,Same state,output,timestamp
+0.1,,,,JCB 16 digit,Citizens First Banks,1,,,,,,,"{""Tipo de fraude"": ""False (No es fraude)"", ""Probabilidades"": {""False"": 0.614, ""True"": 0.266, ""Warning"": 0.12}}",2025-06-29 18:06:32.365045

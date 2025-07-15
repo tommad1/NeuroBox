@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/tomasito/practica%20phyton/BootCamp/Consigna/data/mlruns/0/e3e628164b9f4d139498b2ec703d2d5f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e3e628164b9f4d139498b2ec703d2d5f
+run_name: lyrical-fish-640
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750986406760
+status: 1
+tags: []
+user_id: tomasito

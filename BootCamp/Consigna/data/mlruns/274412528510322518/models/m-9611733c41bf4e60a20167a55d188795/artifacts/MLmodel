@@ -1,0 +1,22 @@
+artifact_path: file:///c:/Users/tomasito/practica%20phyton/BootCamp/Consigna/data/mlruns/274412528510322518/models/m-9611733c41bf4e60a20167a55d188795/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.2
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 3.1.0
+model_id: m-9611733c41bf4e60a20167a55d188795
+model_size_bytes: 6132892
+model_uuid: m-9611733c41bf4e60a20167a55d188795
+prompts: null
+run_id: 3eb845893970480fa74177eac29f32ad
+utc_time_created: '2025-06-27 23:03:51.181431'

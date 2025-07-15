@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/tomasito/practica%20phyton/BootCamp/Consigna/data/mlruns/274412528510322518/3eb845893970480fa74177eac29f32ad/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '274412528510322518'
+lifecycle_stage: active
+run_id: 3eb845893970480fa74177eac29f32ad
+run_name: brawny-crab-999
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751065425223
+status: 1
+tags: []
+user_id: tomasito

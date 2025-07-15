@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/tomasito/practica%20phyton/BootCamp/Consigna/data/mlruns/274412528510322518/752c0585143544ee902308d7afa0de6e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '274412528510322518'
+lifecycle_stage: active
+run_id: 752c0585143544ee902308d7afa0de6e
+run_name: shivering-trout-138
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751130895528
+status: 1
+tags: []
+user_id: tomasito
